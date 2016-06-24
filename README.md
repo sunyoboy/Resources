@@ -20,3 +20,16 @@
 
 ## Node.js 资源推荐
   * 国内Nodejs 2015总结 https://cnodejs.org/topic/5696e43e6272216e51bff67e
+
+
+## Lua 学习资料
+  * Lua脚本语言简明入门教程 http://www.jb51.net/article/55394.htm
+
+
+## 资源杂货铺
+  * 如何高效地向Redis写入大量的数据 http://www.linuxidc.com/Linux/2016-04/130825.htm 
+  * Mysql：用逗号分割的CODE转换成NAME http://blog.sina.com.cn/s/blog_72d3486f0102wd2g.html
+  * json格式转树状结构 http://rockyuse.iteye.com/blog/1541308/
+  * mysql数据向Redis快速导入 http://www.cnblogs.com/kgdxpr/p/3643672.html
+  * mysql数据复制至redis的一种应用场景（通过pipe加载mysql数据） http://blog.csdn.net/moxiaomomo/article/details/20787071
+  * JSON工具 http://www.json.org.cn/tools/index.htm
