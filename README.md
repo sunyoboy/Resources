@@ -10,6 +10,11 @@
   * socket.io https://github.com/socketio/socket.io
   * socket.io API http://socket.io/docs/
   * ThinkJS https://thinkjs.org/zh-cn/doc/index.html
+  * https://github.com/nomiddlename/log4js-node
+  * https://github.com/i5ting/i5ting_ztree_toc/
+  * momentjs https://github.com/moment/moment
+  * 最快的Node.js图片处理模块：sharp https://github.com/lovell/sharp
+  * APNs(Apple Push Notification service)库 https://github.com/argon/node-apn
 
 ## Node.js开发实例
   * 使用Express + MongoDB 搭建多人博客 https://github.com/nswbmw/N-blog
@@ -33,3 +38,23 @@
   * mysql数据向Redis快速导入 http://www.cnblogs.com/kgdxpr/p/3643672.html
   * mysql数据复制至redis的一种应用场景（通过pipe加载mysql数据） http://blog.csdn.net/moxiaomomo/article/details/20787071
   * JSON工具 http://www.json.org.cn/tools/index.htm
+  * iciba http://www.iciba.com/
+
+## sed & awk
+  * http://www.linuxawk.com/category/jiaocheng/page/2
+  * http://www.runoob.com/linux/linux-comm-sed.html
+  * http://www.linuxde.net/2012/02/7390.html
+  * http://linux.51yip.com/search/sed
+  * http://www.jb51.net/article/33499_2.htm
+  * http://www.runoob.com/linux/linux-command-manual.html
+
+## Javascript
+  * https://github.com/visionmedia/debug
+  * https://cnodejs.org/topic/56e8c95dcf7763a6045c4ae4 JavaScript 资源大全中文版
+  * https://github.com/jobbole 伯乐在线
+  * https://github.com/jshttp/cookie
+
+## DB
+  * redis http://www.redis.cn/
+  * SQL 教程 http://www.w3school.com.cn/sql/sql_dates.asp
+  * MySQL 5.1简体中文官方手册 http://doc.mysql.cn/mysql5/2006/1027/5545.html
