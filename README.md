@@ -58,3 +58,28 @@
   * redis http://www.redis.cn/
   * SQL 教程 http://www.w3school.com.cn/sql/sql_dates.asp
   * MySQL 5.1简体中文官方手册 http://doc.mysql.cn/mysql5/2006/1027/5545.html
+
+##测试
+* 测试工具 http://www.jianshu.com/p/43d04d8baaf7
+* 史上最全的开发和设计资源大全 http://blog.jobbole.com/104313/
+* http://blog.jobbole.com/104367/
+* http://blog.jobbole.com/104436/
+* http://blog.jobbole.com/67820/
+* http://blog.jobbole.com/76103/
+* http://www.brendangregg.com/
+* http://www.360doc.com/content/14/0325/15/15064667_363607814.shtml
+* https://github.com/wizardforcel/w3school
+* http://cn.linux.vbird.org/linux_basic/0310vi_2.php
+
+* http://thrift.apache.org/tutorial/nodejs
+* http://www.cnblogs.com/fsjohnhuang/p/4135149.html#a2
+* https://github.com/simongfxu/mongoomise
+* PM2 https://cnodejs.org/topic/51f8c15144e76d216a588fcc
+* node.js使用cluster实现多进程 http://www.jb51.net/article/81063.htm
+* http://www.igooda.cn/jzjl/20141031644.html
+* https://github.com/mochajs/mocha/wiki
+
+
+* http://www.runoob.com/coder-learn-path
+* http://www.runoob.com/wp-content/uploads/2016/07/png-IntelligentDevOps-by-StuQ.png
+* http://calvin1978.blogcn.com/articles/javabookshelf.html
